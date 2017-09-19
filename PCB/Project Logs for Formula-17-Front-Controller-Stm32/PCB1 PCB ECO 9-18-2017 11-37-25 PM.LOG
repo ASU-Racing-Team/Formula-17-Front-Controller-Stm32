@@ -1,0 +1,53 @@
+Added Component: Designator=P?(SMTC-PHT-112-02-X-S)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/pht.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/PHT-1XX-XX-X-X-XXX-MKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = ".100 Press Fit Socket Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PHT-112-02-X-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "J, 9/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PHT-112-02-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to 125 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=st1 Pin=P?-3
+Added Pin To Net: NetName=st1 Pin=U1-38
+Added Net: Name=st1
+Added Pin To Net: NetName=st2 Pin=P?-4
+Added Pin To Net: NetName=st2 Pin=U1-39
+Added Net: Name=st2
+Added Pin To Net: NetName=st3 Pin=P?-5
+Added Pin To Net: NetName=st3 Pin=U1-40
+Added Net: Name=st3
+Added Pin To Net: NetName=st4 Pin=P?-6
+Added Pin To Net: NetName=st4 Pin=U1-41
+Added Net: Name=st4
+Added Pin To Net: NetName=st5 Pin=P?-7
+Added Pin To Net: NetName=st5 Pin=U1-42
+Added Net: Name=st5
+Added Pin To Net: NetName=st6 Pin=P?-8
+Added Pin To Net: NetName=st6 Pin=U1-43
+Added Net: Name=st6
+Added Pin To Net: NetName=st7 Pin=P?-9
+Added Pin To Net: NetName=st7 Pin=U1-45
+Added Net: Name=st7
+Added Pin To Net: NetName=st8 Pin=P?-10
+Added Pin To Net: NetName=st8 Pin=U1-46
+Added Net: Name=st8
+Added Pin To Net: NetName=st9 Pin=P?-11
+Added Pin To Net: NetName=st9 Pin=U1-18
+Added Net: Name=st9
+Added Pin To Net: NetName=st10 Pin=P?-12
+Added Pin To Net: NetName=st10 Pin=U1-19
+Added Net: Name=st10
+Added Member To Class: ClassName=Sheet1 Member=Component P? PHT-112-02-L-S
+Added Room: Name=Sheet1

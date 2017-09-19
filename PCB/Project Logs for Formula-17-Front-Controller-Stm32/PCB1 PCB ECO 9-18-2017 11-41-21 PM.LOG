@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=st9 Pin=U1-18
+Removed Pin From Net: NetName=st10 Pin=U1-19
+Removed Pin From Net: NetName=st1 Pin=U1-38
+Removed Pin From Net: NetName=st2 Pin=U1-39
+Removed Pin From Net: NetName=st3 Pin=U1-40
+Removed Pin From Net: NetName=st4 Pin=U1-41
+Removed Pin From Net: NetName=st5 Pin=U1-42
+Removed Pin From Net: NetName=st6 Pin=U1-43
+Removed Pin From Net: NetName=st7 Pin=U1-45
+Removed Pin From Net: NetName=st8 Pin=U1-46
+Added Pin To Net: NetName=st1 Pin=U1-18
+Added Pin To Net: NetName=st2 Pin=U1-19
+Added Pin To Net: NetName=st3 Pin=U1-20
+Added Pin To Net: NetName=st4 Pin=U1-39
+Added Pin To Net: NetName=st5 Pin=U1-40
+Added Pin To Net: NetName=st6 Pin=U1-41
+Added Pin To Net: NetName=st7 Pin=U1-42
+Added Pin To Net: NetName=st8 Pin=U1-43
+Added Pin To Net: NetName=st9 Pin=U1-45
+Added Pin To Net: NetName=st10 Pin=U1-46
+Added Room: Name=Sheet1
